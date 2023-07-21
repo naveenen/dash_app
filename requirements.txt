@@ -2,4 +2,4 @@ pandas
 datetime
 plotly
 dash
-export PATH=$PATH:/usr/local/python3/bin && pip install gunicorn && gunicorn app:app
+==> Using Python version 3.7.10 (default)==> Docs on specifying a Python version: https://render.com/docs/python-version
