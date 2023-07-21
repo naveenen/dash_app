@@ -2,4 +2,4 @@ pandas
 datetime
 plotly
 dash
- pip3 install psycopg2 gunicorn && pip3 freeze > requirements.txt
+export PATH=$PATH:/usr/local/python3/bin && pip install gunicorn && gunicorn app:app
