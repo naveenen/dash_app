@@ -1,5 +1,5 @@
 pandas
 datetime
 plotly
-dash
+dash==2.9.3
 gunicorn
